@@ -19,3 +19,8 @@ Interaktive QR-Vertiefung für Band 3 / Kapitel 2.
 ## Inhaltlicher Stand
 
 Stand: Juli 2026. Gebühren, Zuständigkeiten und Länderstatus vor Veröffentlichung nochmals bei offiziellen Stellen prüfen.
+
+
+## Änderung
+
+Diese Version scrollt beim Öffnen nicht automatisch zur ersten Fallkarte. Die Seite startet oben beim Startbild/Header.
